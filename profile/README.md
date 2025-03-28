@@ -34,6 +34,8 @@ A estrutura do repositório segue o seguinte formato:
 
 ## Como Contribuir
 
+Os repositórios são privados e só podem ser modificados mediante convite ou ingresso no grupo de robótica Hammer Botz no setor de programação. Caso você seja membro:
+
 1. Faça um fork deste repositório.
 2. Crie uma branch para sua feature ou correção: `git checkout -b minha-feature`.
 3. Faça commit das suas alterações: `git commit -m 'Minha nova feature'`.
@@ -44,7 +46,7 @@ A estrutura do repositório segue o seguinte formato:
 
 Para mais informações sobre o grupo Hammer Botz, entre em contato conosco:
 
-- **E-mail**: hammerbotz@bras.cubas.edu.br
+- **E-mail**: contato@hammerbotz.com.br
 - **Localização**: Centro Universitário Braz Cubas, Mogi das Cruzes - SP
 
 Agradecemos por visitar nosso repositório e apoiar o desenvolvimento da robótica!
